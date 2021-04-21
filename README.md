@@ -110,8 +110,11 @@ sns.barplot(xlabel, ylabel, data=df, palette="Paired").set_title(title)
 
 # References
 [Dr. Case GitHub](https://github.com/denisecase/starting-spark)
+
 [Databricks: Word Count RDD](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4574377819293972/2246755934805346/3186223000943570/latest.html)
+
 [Stack Overflow: reduceByKey](https://stackoverflow.com/questions/59240504/spark-python-reducebykey-then-find-top-10-most-frequent-words-and-frequencies)
+
 [MatplotLib](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html)
 
 
