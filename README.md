@@ -105,6 +105,8 @@ plt.figure(figsize=(25,10))
 sns.barplot(xlabel, ylabel, data=df, palette="Paired").set_title(title)
 ```
 
+![](Graph.png)
+
 
 
 
